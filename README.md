@@ -12,3 +12,4 @@
 
  В результате работы алгоритма выборка разделяется на кластеры
  
+![](https://github.com/MariyaBuzdina/Forel-clusterization/blob/master/forel_clusterization.png)
